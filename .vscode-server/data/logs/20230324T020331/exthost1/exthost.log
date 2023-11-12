@@ -1,0 +1,13 @@
+2023-03-24 02:03:43.104 [info] Extension host with pid 1025 started
+2023-03-24 02:03:43.274 [info] Lock '/var/www/.vscode-server/data/User/workspaceStorage/73bf0a0a9925d8bd095afd92b306e552/vscode.lock': Lock acquired.
+2023-03-24 02:03:43.309 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-24 02:03:43.311 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-24 02:03:43.506 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-24 02:03:43.507 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-24 02:03:44.304 [info] Eager extensions activated
+2023-03-24 02:03:44.307 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-24 02:03:44.308 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-24 02:03:45.553 [error] Error: ENOENT: no such file or directory, scandir '/workspaces/micro-admin-videos-php'
+2023-03-24 02:03:52.660 [info] Extension host terminating: received terminate message from renderer
+2023-03-24 02:03:52.683 [info] Lock '/var/www/.vscode-server/data/User/workspaceStorage/73bf0a0a9925d8bd095afd92b306e552/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-03-24 02:03:52.716 [info] Extension host with pid 1025 exiting with code 0

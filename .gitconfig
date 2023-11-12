@@ -1,0 +1,10 @@
+[user]
+	name = Bruno Mann Ramos
+	email = bmannramos@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[credential]
+	helper = "!f() { /var/www/.vscode-server/bin/ee2b180d582a7f601fa6ecfdad8d9fd269ab1884/node /tmp/vscode-remote-containers-4941c3a3-f3f6-4404-8662-d9c5c241d0c6.js git-credential-helper $*; }; f"

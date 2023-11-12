@@ -1,0 +1,13 @@
+2023-03-24 02:06:17.745 [info] 
+
+
+
+
+2023-03-24 02:06:17.936 [info] Extension host agent started.
+2023-03-24 02:06:17.950 [error] ptyHost was unable to resolve shell environment {}
+2023-03-24 02:06:18.344 [debug] Removing uninstalled extensions: []
+2023-03-24 02:06:18.697 [info] [127.0.0.1][81c641eb][ManagementConnection] New connection established.
+2023-03-24 02:06:19.807 [info] [127.0.0.1][350fcb94][ExtensionHostConnection] New connection established.
+2023-03-24 02:06:19.911 [info] [127.0.0.1][350fcb94][ExtensionHostConnection] <260> Launched Extension Host Process.
+2023-03-24 02:06:41.486 [info] [127.0.0.1][81c641eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-03-24 02:06:41.931 [info] [127.0.0.1][350fcb94][ExtensionHostConnection] <260> Extension Host Process exited with code: 0, signal: null.
